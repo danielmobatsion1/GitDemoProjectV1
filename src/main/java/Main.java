@@ -5,9 +5,10 @@ public class Main {
 		String status ="hungry";
 		if(status == "hungry") {
 			System.out.println("Eat something now!");
-		}else {
+		}else { 
 			System.out.println("Enjoy");
 		}
+		
 
 	}
 
