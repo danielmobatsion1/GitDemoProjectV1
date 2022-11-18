@@ -7,6 +7,7 @@ public class Main {
 			System.out.println("Eat something now!");
 		}else { 
 			System.out.println("Enjoy");
+			//Work hard if you more
 		}
 		
 
